@@ -1,0 +1,17 @@
+{
+	"rules":[  
+	{
+		"type": "Temperature",
+		"avg_min": 45,
+		"avg_max": 100,
+		"trigger_count": 4,
+		"name": "rule1"
+	},  
+	{
+		"type": "Temperature",
+		"avg_min": 85,
+		"avg_max": 100,
+		"trigger_count": 4,
+		"name": "rule2"
+	}]
+}

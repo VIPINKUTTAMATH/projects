@@ -1,0 +1,10 @@
+DT001,Temperature Sensor,Temperature,Acme,rw,r
+DT002,Temperature Sensor,Temperature,Acme,rw,r
+DT003,Temperature Sensor,Temperature,Acme,rw,rw
+DT004,Temperature Sensor,Temperature,Acme,rw,r
+DT005,Temperature Sensor,Temperature,Acme,rw,r
+DH001,Humidity Sensor,Humidity,Krab,rw,r
+DH002,Humidity Sensor,Humidity,Krab,rw,r
+DH003,Humidity Sensor,Humidity,Krab,rw,r
+DH004,Humidity Sensor,Humidity,Krab,rw,r
+DH005,Humidity Sensor,Humidity,Krab,rw,r
